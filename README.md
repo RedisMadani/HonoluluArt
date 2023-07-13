@@ -1,5 +1,6 @@
 # HonoluluArt
 
+![HonoluluArt](https://github.com/RedisMadani/HonoluluArt/assets/136177376/0626f942-158b-4f99-8823-4cdb98c86edc)
 
 ## Description
 
